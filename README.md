@@ -6,3 +6,4 @@
 
 ![Payam's Github Status](https://github-readme-stats.vercel.app/api?username=payamyek&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true)
 
+![](https://komarev.com/ghpvc/?username=payamyek)
