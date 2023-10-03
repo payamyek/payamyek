@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=53BFF7&size=30&width=680&lines=Hey%2C+there.+I'm+Payam+Yektamaram!;I+work+at+MPAC+as+a+systems+developer!)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🔭 I’m currently working on creating a chess engine in Python<br>👯 I’m looking to collaborate on future A.I projects<br>🌱 I’m currently learning about the Python Interpreter<br>💬 Ask me about how A.I will change programming forever<br>⚡ Fun fact: My favourite language is C but I love using Python 
+🔭 I’m currently working on creating a chess engine in Python<br>🌱 I’m currently learning about the Python Interpreter<br>⚡ Fun fact: My favourite language is C but I love using Python 
 
 
 ## 🌐 Socials:
