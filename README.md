@@ -1,4 +1,4 @@
-# Full-stack Developer @ MPAC
+# Full-stack Engineer @ StackAdapt
 
 # 💫 About Me:
 🔭 I'm a frontend developer by passion and a backend developer by neccesity <br>🌱 I'm currently discovering all the things React.js does wrong<br>⚡ Fun fact: If you use JavaScript in frontend and backend your life becomes much easier :)
